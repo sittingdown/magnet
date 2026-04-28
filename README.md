@@ -1,7 +1,7 @@
 ## Setup
 
 **Step 1**
-- Open `magnetfishing.py`
+- Open `magnetfishing.exe`
 - Tab into FiveM
 
 **Step 2** - When in the fishing spot
