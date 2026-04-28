@@ -18,6 +18,6 @@
   - Press F3 to start/stop the script
 
 ## Info
-Best values for Cast Delay is 1.75, Click Wait is 2.70.
+Best values for Cast Delay is 1.75, Click Wait is 2.80.
 Pressing the Pin icon will toggle "Stay on top".
 When tabbing out of the game it will Pause the script.
